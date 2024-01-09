@@ -1,0 +1,3 @@
+git config --global user.name "Ricardo Restrepo"
+git config --global user.email ricar2011.medallo@gmail.com
+git config --list
